@@ -1,0 +1,112 @@
+pre/post;ProjectID;GitHubURL;GH_Stars;GH_Forks;GH_LastCommitDate;WoC_NumCommits;WoC_NumAuthors;WoC_MinTime;WoC_MaxTime;CommitSHA;CommitDate;CommitMessage
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;25d75d70ed9aeaf92fa165318508516d0fc9eb2d;2025-06-30T17:44:59Z;Merge pull request #96 from ana-v-espinoza/jhub-helm-upgrade
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;b89629d00f57ed390e180e730f14b6b34cc897ce;2025-06-30T16:48:17Z;JupyterHub Helm Chart v4.2.0
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;1654b2425328b58f0f08a30d74609eca75980d89;2025-04-24T16:56:53Z;scripts to handle volumes
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;b14072fdead06a945caa7fdf0d87c72119cf66fd;2025-04-23T05:43:10Z;Merge pull request #92 from ana-v-espinoza/magnum-nfs
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;1bc9a0a7fd18453e58faac4681a0a6c730a30427;2025-04-23T05:42:52Z;update also test pod
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;feb3880c8167dcef32da25c6fba8463adcd272f0;2025-04-23T05:42:28Z;set magnum as default
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;383f5bad329ade3f6ffcc3fd0c2057bf02cae4b8;2025-04-22T15:09:01Z;"Update Magnum cluster IP; Addresses #91"
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;a5a7c599a4ff52c9166c2415cbad0df514148f93;2025-04-15T16:52:21Z;use auto allocated network
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;811bbb2fb23c319b470aa7eb8dcef0056caffb4e;2025-04-15T03:56:55Z;echo test
+pre;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;141b88b86bf65cdb4264f0d047155bf0bc1c73b1;2025-04-15T03:14:18Z;"Revert ""remove autoscaling label"""
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;5f1d67c70ae170b78fba1f49ced0dc0588cf83b4;2026-02-04T03:09:43Z;Add nbgrader quickstart notebooks
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;97f2495120dcb3751cfeb2db002be66dd892592d;2026-02-04T03:12:21Z;Add nbgrader quickstart notebooks and expected output
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;9f976601c2507ae25364974fe7d253ee38acb099;2026-02-04T03:19:24Z;Merge pull request #99 from zonca/nbgrader-ngshare-templates
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;7a6f9be8357fd5090d1d6b1c58350a4121eb1c32;2026-02-24T18:45:47Z;Add standalone ngshare SQLite PVC permission repro
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;aeb16cbff46132cc447c14645d7a78ec00ee11a8;2026-03-03T21:51:21Z;Add Magnum tofu config from Jetstream team
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;c33dd1d71da3c635df38d7335ec7c44f06f3c4a3;2026-03-04T00:01:13Z;Add nbgrader filesystem exchange configs for Manila share
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;2ab1d63d7ea91341e9d51b05d373cf5596c3059b;2026-03-31T19:22:16Z;Security release: bump helm chart to v4.3.3
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;19783456120c0945dd6f23acc4e481ebe99c4210;2026-03-31T19:36:38Z;Merge pull request #103 from ana-v-espinoza/bump-jhub-version
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;87c1c621afceacd5afde4f6a9aefa4f99be56730;2026-04-06T11:40:23Z;Add Jetstream support contact to AGENTS.md
+post;zonca_jupyterhub-deploy-kubernetes-jetstream;https://github.com/zonca/jupyterhub-deploy-kubernetes-jetstream;24;14;2026-09-15;415;9;;;9cfc902698ce187093029228f592616d7aca43e2;2026-04-21T20:24:28Z;Fix gog CLI usage example in AGENTS.md
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;09a6e232839aa8db3cbaf9633218b2fdcfd8d64e;2024-12-08T02:13:22Z;Typing (widget_ngl.ts) - part I (#1152)
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;1d953bdb9cba5001ece2d137042df1c94d96dd59;2024-12-08T02:12:58Z;More stuff from molstar (#1151)
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;ee46f071209075dfb46c9bd63a08341456ef7250;2024-12-05T15:54:29Z;Update README.md: remove oudated information.
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;f0a11520a71a5453a132d4a17cbccadaf509c657;2024-12-05T03:25:14Z;refactor two widgets code (#1148)
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;249467b55ad1c141ae665508d5055ec75fffde47;2024-12-04T01:11:20Z;molstar 4.9.0 (#1147)
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;c3c08f617493e72c8d17b150c7758876066ac704;2024-12-03T05:35:37Z;Try molstar (#1146)
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;83802f68f5093b18ae9153ffe2fb3eba2c570a06;2024-11-29T20:12:04Z;Refactor widget_ngl.ts: arrow func + cleanup (#1144)
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;36f0a918f21e17ad86daa60696bc42851c6189a8;2024-11-28T19:54:38Z;Embed traj warning (#1142)
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;e520391b717b6a87347f43e7f6ccb2dcac0d8791;2024-11-28T19:46:26Z;WIP - Refactor (#1138)
+pre;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;038ecd811616762040eaf917982c8c2398aa8a76;2024-11-28T18:53:02Z;Rotate fix (#1141)
+post;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;d71919f7ba3e9c8644b7e2a7bad6144cb700e821;2025-05-28T20:00:38Z;Update README.md
+post;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;52f62d9bfba0fc616bf564da614e2b3d158dbf62;2025-09-24T20:05:42Z;chore: use jupyter_packaging>=0.12.2 for Python 3.13+ and fix broken CI (#1164)
+post;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;3e52eac9835d9398f1d1f55f71ab3e8996d87d5a;2025-09-25T11:47:40Z;refactor: use unittest.mock instead of mock (#1163)
+post;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;964a8a158436a68ae00e625fed7114315598466e;2025-10-02T14:36:24Z;chore: run CI with Python 3.13 (#1167)
+post;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;c6c93b791e723f0f392b416e14a16b4f7fd641d3;2025-10-02T15:36:21Z;4.0
+post;nglviewer_nglview;https://github.com/nglviewer/nglview;928;140;2026-02-02;3972;69;;;6abd900ec447b6deddad92f97f814b615440a74f;2026-02-02T15:12:57Z;Remove upper bound for numpy and pillow (#1176)
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;1ea3580daab02e3863e35feacda697baf5f66063;2021-03-08T22:43:53Z;Fix syntax when checking dictionary for key
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;f8dd03719ba093a18652731430ed4c1eacd9ab93;2021-03-06T00:14:02Z;Update with citation
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;e18e9fbec9cb5c195646fbd4081ee1d853a7c0ce;2021-03-05T22:05:24Z;Fix model loading with example configuration files
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;8b3de5689d958c36d7ca51d42dbe7805b0c6835e;2020-04-15T17:34:42Z;better handling of missing weights
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;0d7bad682fe75f89916c724a338efb78d7beeefd;2020-04-13T22:28:56Z;pandas import
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;eb2d0ddd9b474a08c5308e3962308ad5171ce71f;2020-04-13T22:24:53Z;'with' for muliprocessing pool instances
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;9af148c634bacd5219201b3c902b8f0a9701d84d;2020-04-13T22:23:29Z;improves nan handling
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;20896152811bc3db4dafc6177418f1d0680d01a1;2020-04-13T22:23:12Z;switches to openbabel api
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;ac1ceac3ce7a9f40b1a03673a5cc318f63385654;2020-01-27T23:47:06Z;windows/mac generalization for openbabel canonicalization
+pre;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;78c784ef79f88d37aaa5aeeb2f158272910b135a;2020-01-10T18:54:49Z;type error fix
+post;pnnl_darkchem;https://github.com/pnnl/darkchem;34;15;2023-11-07;373;5;;;63a8f07581894aec690bfdb3688b3f66445acc25;2023-11-07T22:57:54Z;Update installation to reflect changes to dependencies
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;1425b475e9a71e118e7504517940b998ffb07a2e;2025-01-23T11:53:25Z;better fix for #45
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;8ae6885611636b4a2d17d968f27c215ba794f1cf;2025-01-23T11:49:12Z;Merge pull request #45 from mr-c/patch-1
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;cd337600bebf31bb800cf2051b5bb02657900dfd;2025-01-23T09:34:33Z;DESCRIPTION: add `tibble` to Suggests to support `tests/stconstruct.R`
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;456c5ddd89e7253e9f9ed08f538b51a5579ad921;2024-09-04T19:51:21Z;CRAN check tidying
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;bd2f3b85ffae74ab024d4ac556c26efd3db37ba7;2024-09-03T19:14:05Z;"bump version; clean tests"
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;55cc40454cedb629e5cf0ea8d880e059f0486c9e;2023-11-25T15:41:33Z;properly format equations
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;e39a44f9891cb250338df0a9bc032bb48e5c56be;2023-04-06T11:54:24Z;bump version after CRAN release
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;0ab686d80dbebe602019da72eb4aa68c12eb700f;2023-04-05T15:32:46Z;remove dependency on rgdal, rgeos, maptools
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;b10a3614713d3809f8fa158476638ed66922dd68;2022-06-15T10:11:40Z;modify for _R_CHECK_DEPENDS_ONLY_=true
+pre;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;9cc9e6c0b57653ce677e10e4ebe0099d0ebd9afe;2022-05-31T18:26:56Z;"fix urls; add coercion from sftime to STI[DF]"
+post;edzer_spacetime;https://github.com/edzer/spacetime;75;20;2026-08-21;361;14;;;ea0ad6fb7fdfe8d81342d6316414af20af1bbb2c;2026-08-21T09:50:29Z;"version; remove raster interfaces; fix CRAN warning"
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;23bbe3929ce384c14f12bb3b88ccb10bfc3355dc;2026-06-05T14:14:35Z;Merge pull request #437 from ebi-pf-team/bubfix_gff3
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;c9e6642f2caa0571cbc7bf0486e2d58f199ee19e;2026-06-05T14:13:58Z;keep previous order static
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;c089ef0fe77ee21402abae2726431c73a5f41584;2026-06-05T12:24:08Z;add only signature_desc to escape
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;d754f9ed1cc2d9f782145519356ebc6215ea0ca2;2026-06-05T11:09:32Z;don't escape ID or Dbxref
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;3b93e826daf32d017e96697426d702d2631a9d28;2026-06-05T10:21:41Z;escape all gff3 elements
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;38a668e9eac89b3bd73a3079b70a6b4138346ece;2026-05-23T11:09:18Z;Bump XSD
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;2730a4497228db93246b429c314e5160eea5d0d5;2026-05-23T10:55:35Z;Update H2 database
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;c358cc7b23e4a36fe392121286323d9af5bf7617;2026-05-22T16:17:50Z;Update pathways
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;771c780d141cb387029d938e18871b68c5dfc5df;2026-05-22T16:17:46Z;Update GO terms
+pre;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;98a81d6b81dfbc848623d46e3c54045f4e347429;2026-05-22T15:58:46Z;Update version
+post;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;a5a5c6996eca5d6de0eb2bd61454a923172afed6;2026-09-02T08:58:00Z;include end of support notice
+post;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;d9a82ef5aab9be46361e2b8e98e06195c10b0122;2026-09-29T11:02:56Z;End of support notice
+post;ebi-pf-team_interproscan;https://github.com/ebi-pf-team/interproscan;393;77;2026-10-01;10268;61;;;26256cbb70357846da3c8275df59397c537f1aca;2026-10-01T15:35:46Z;add warning
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;15054992098c8e9000a3ab321894367d65f012dc;2023-03-15T12:44:09Z;Merge pull request #120 from seandavi/master
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;c6e45c7c722c1f543981b3454a370851273ecfc3;2022-12-10T23:19:28Z;turn parse_medline_xml into an iterator to save memory
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;776b78e75685fa8dc192fe3d847b65fe9a6fc943;2022-07-03T01:27:40Z;Merge pull request #117 from raypereda/add-subheadings
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;a52bc27308ede8bf8083ba35f9d6aa5e181f9b38;2022-06-29T16:44:41Z;"Add optional parse_subs parameter to parse_article_info; remove parse_mesh_terms() definition swap."
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;5db57f3f73ae846d90290655949b7ccb96c56ad3;2022-06-29T16:23:58Z;Fix whitespace.
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;b6fb97d1ba12d2b248984eac16979564aa285810;2022-06-17T14:47:12Z;Add test for parsing subheadings details.
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;4c30cb6f174720ed59ac90b54025b40f815108c6;2022-06-17T14:43:29Z;Add optional parsing down to MeSH subheadings and major topic yes/no.
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;19f2a14a3f10a6c75a51030581aa54dca932a499;2022-06-17T14:37:29Z;Move test PubMedfile XML file.
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;45a90d2cacda5f515fc342b6ce47dfa8d852693e;2022-06-13T18:25:42Z;Add test article with subheadings.
+pre;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;cd7354d9279c3beb18a6c71bfd147ace42851ecb;2022-05-26T12:03:20Z;Merge pull request #116 from titipata/fix-issue-115
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;642e73665d643aa1219244b23176a7858412e238;2024-04-22T12:43:29Z;#135 Avoid loop and parse directly the DOI
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;5943a6e8e13ef4451cad8206ea781d89710b4b93;2024-04-22T12:56:23Z;Use DOI from`ELocationID` insted of `ArticleIdList\\ArticleId` (fix #135)
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;bf5e771a754f6959a7dcf65d6026f5194b701328;2024-04-22T13:21:04Z;Parse pii in the web parser
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;e49a78fff9be398a8c8d5356d40418399a812c1a;2024-04-22T13:27:55Z;Parse `pii` in the web parser
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;5edb8bbcd2332ebb81d0b8a26655f85ada6f4427;2024-04-24T13:18:17Z;#125 Create exception for empty figures and parse figure subpoints. Further, create one test for every parsed field of a figure.
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;428cbc628abefe9eb1e865cc6a39f48eb1e6b206;2024-04-24T13:20:56Z;#125 Minor change
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;b47f499f331b647981f5f5b670c60024488470b6;2024-05-16T08:52:26Z;#125 Requested changes
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;0eb711487f59c430e82928bbb0736f7901e4fd32;2024-05-16T09:58:38Z;Fix bug resulting from parsing figures with empty labels and/or captions (close #125)
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;f0bc9d21e709d0f5a879971e57b116c9e271a59e;2024-05-23T14:42:19Z;Modify XPath to retrieve tables and references. (close #119)
+post;titipata_pubmed_parser;https://github.com/titipata/pubmed_parser;738;182;2025-07-31;466;47;;;d255a2f0dc5bb13524811cd01ca5082a57165580;2024-06-02T11:46:03Z;#110 Parse text inside journal-title nodes.
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;2d71419e42bbb6562cfaa74b5dc00ec165ec3017;2017-08-10T00:19:49Z;Require approval before conda upload
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;c9c3684bae4d528b277d30c1a44a6e8b943270ca;2017-08-08T18:49:14Z;Add missing submodule update in conda build workflow
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;dbebcfcfdf6fb6a0abe3a36f575adce47909f9b8;2017-08-08T18:47:33Z;Setup bumpversion to update conda recipe
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;dd15a4bc6bfb9ee40358f00e608349096d90232f;2017-08-08T18:46:46Z;Add conda recipe
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;5c001b2407b6033d57b09e0c5d26ac4fa0fb37c6;2017-08-08T18:42:20Z;Add conda builds to the circleci tests
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;e7df1b89a151af31b0eb9ad60b79c06f84c39551;2017-08-08T11:45:11Z;Update to latest CI image
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;dbfb31f5e8587d5f6e8a3d30699e8fe040f5e7ad;2017-08-07T16:11:17Z;Add missing CMAKE to circleci config
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;d3e888f8395188715e9c0bc67f5692ac26ae32b7;2017-08-07T16:11:04Z;Fix a problem where cmake 2.8 failed to link Embree
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;a3fd9d144c996119450f935c65a928014b6f404c;2017-08-07T15:48:35Z;Testing env var settings
+pre;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;b7cf3b51fd04c54850e4fee14e144c75ac2a6de0;2017-08-07T15:42:20Z;CMake 3.3 really isn't required
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;c267e80dd26320d19fa4935e0640f2da3e68a0a5;2026-04-27T16:10:21Z;Update softprops/action-gh-release action to v3 (#394)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;aa160d861b65be46d5f49c3016e1b11b715cab28;2026-05-25T05:00:39Z;Update prefix-dev/setup-pixi action to v0.9.6 (#395)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;b8ef8847c3b1b1742bd6701efd5a561c1dbc98af;2026-05-27T12:58:42Z;Refresh pip-compile outputs (#397)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;3c1004ebc5eecfef799c1df43c32d6d7523d2cf2;2026-05-27T13:16:20Z;Lock file maintenance (#396)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;805e83618fda3d5ea237c4c0cdd36231b1132ce0;2026-06-08T05:03:03Z;Update glotzerlab/workflows action to v0.14.0 (#399)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;1e9808497c8f4a3b71a4af72ac095c5e3a1bd04b;2026-06-08T05:03:37Z;Update actions/checkout action to v6.0.3 (#398)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;78598b247f66c2c06766ce77177a49cef83fbb06;2026-06-12T23:07:14Z;Update dependency tornado to v6.5.6 [SECURITY] (#400)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;6d157b3ba2f204f8d19ea8f7faf05a6f1751c663;2026-06-18T00:12:38Z;Update dependency tornado to v6.5.7 [SECURITY] (#401)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;f922b140d37d6037519c848dc441cb55774ab87f;2026-06-22T04:57:56Z;Update actions/checkout action to v7 (#403)
+post;glotzerlab_fresnel;https://github.com/glotzerlab/fresnel;128;9;2026-10-07;1612;19;;;7fb2e69f9a2f7c6291d08e2741f23e63ad087654;2026-06-22T04:58:40Z;Update softprops/action-gh-release digest to 718ea10 (#402)
